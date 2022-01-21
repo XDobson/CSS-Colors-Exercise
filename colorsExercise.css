@@ -1,0 +1,54 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: #B000B5;
+}
+h3 {
+    color: #567;
+}
+h4 {
+    color: #11223344;
+}
+h5 {
+    color: #1234;
+}
+h6 {
+    color: rgb(150,50,40);
+}
+p {
+    color: rgb(50,255,20,0.8);
+}
+
+h1 {
+    background-color: red;
+}
+h2 {
+    background-color: orange;
+}
+h3 {
+    background-color: yellow;
+}
+h4 {
+    background-color: green;
+}
+h5 {
+    background-color: blue;
+}
+h6 {
+    background-color: indigo;
+}
+p {
+    background-color: violet;
+}
+#first {
+    color: hotpink;
+}
+#third {
+    background-color: peachpuff;
+}
+.bonus {
+    border: green;
+    border-width: 5px;
+    border-style: solid;
+}
